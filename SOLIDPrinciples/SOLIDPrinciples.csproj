@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="1.SRP.cs" />
     <Compile Include="2.OCP.cs" />
+    <Compile Include="3.LSP.cs" />
+    <Compile Include="4.ISP.cs" />
+    <Compile Include="5.DSP.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
